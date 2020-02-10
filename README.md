@@ -1,6 +1,8 @@
 # UnityTextMeshProUpgrader
 Upgrades standard UGUI text to TextMeshPro
 
+![Preview](preview.png?raw=true)
+
 **Usage**
 Per-text: Select desired text objects, click "Dummiesmans Tools" up top and then "Upgrade Selected to TMP"
 
@@ -13,5 +15,3 @@ Entire scene: click "Dummiesmans Tools" up top and then "Upgrade Scene to TMP"
 - Does not update scripts or references, that's left to you.
 
 - Does not create font assets, that's also left to you.
-
-- This expects TMPro fonts to be under the default output path and default output name.
