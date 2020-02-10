@@ -10,6 +10,8 @@ Entire scene: click "Dummiesmans Tools" up top and then "Upgrade Scene to TMP"
 **Notes**
 - Does not create undo  history, save before using if you're worried!
 
-- Does not update scripts or references, that's left to you
+- Does not update scripts or references, that's left to you.
 
-- Does not create font assets, that's also left to you
+- Does not create font assets, that's also left to you.
+
+- This expects TMPro fonts to be under the default output path and default output name.
